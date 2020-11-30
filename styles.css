@@ -1,0 +1,47 @@
+img {
+    width: 300px;
+}
+
+body {
+    background-color: black;
+    color: yellow;
+	text-align:center;
+}
+
+h1,h2 {
+    font-family: 'Nerko One', cursive;
+}
+
+.category {
+    color: white;
+    margin: 30px;
+    padding: 20px;
+}
+
+.movie {
+    background-color: #69EBD0;
+    border: 10px solid #C60F7B;
+}
+
+.tv {
+    background-color: #4D9DE0;
+    border: 5px dotted #F06543;
+}
+
+.instagram {
+    background-color: #F17455;
+    border: 10px ridge #69EBD0;
+}
+
+.book {
+    background-color: #C60F7B;
+    border: 15px double #FFE66D;
+}
+
+.nominees {
+    display: flex;
+    justify-content:center;
+}
+.nominees img {
+    width:100px;
+}
